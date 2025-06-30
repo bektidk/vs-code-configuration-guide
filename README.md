@@ -1,5 +1,8 @@
 # Visual Studio Code Configuration Guide
 
+[![English](https://img.shields.io/badge/lang-English-blue)](README.md)  
+[![Bahasa Indonesia](https://img.shields.io/badge/lang-Indonesia-red)](README.id.md)
+
 This repository contains a `settings.json` file for Visual Studio Code, designed to provide a streamlined, comfortable, and user-friendly development environment.
 
 ## Key Features
